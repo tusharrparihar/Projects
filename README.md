@@ -32,7 +32,7 @@ Used Python and Pandas for data cleaning, exploratory data analysis, RFM analysi
 
 **Tools:** `Python` `Pandas` `RFM Analysis` `EDA` `Customer Segmentation` `Power BI`
 
-👉 [View Project](./Project-1-Customer-Segmentation-RFM-Analysis)
+👉 [View Project](https://github.com/tusharrparihar/Retail-Customer-Segmentation-RFM-Analysis.git)
 
 ---
 
