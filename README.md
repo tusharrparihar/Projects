@@ -1,100 +1,101 @@
-## 📊 Data Analytics Projects 
+## 📊 Data Analytics Projects
 
-Welcome to my **Data Analytics Projects**.
+Welcome to my **Data Analytics Projects** repository.
 
-This repository showcases my hands-on work in **SQL, Python, Power BI, Tableau, Excel, and databases**. Each project is built around a real-world analytics problem — from cleaning raw data and exploring patterns to creating dashboards and communicating business insights.
+This repository contains a collection of projects that I have built to practice and demonstrate my skills in **data analysis, SQL, Python, Excel, Power BI, data visualization, and business analytics**.
 
-I use this portfolio to demonstrate not just *how I work with data*, but how I turn data into **clear, useful insights for decision-making**.
-
----
-
-### 🧰 Skills & Tools
-
-| Area | Technologies |
-|---|---|
-| **Programming & Querying** | SQL, Python |
-| **Python Libraries** | Pandas, NumPy, Seaborn |
-| **Business Intelligence** | Power BI, Tableau |
-| **Spreadsheet Analysis** | Microsoft Excel |
-| **Databases** | MySQL, PostgreSQL |
-| **Data & Version Control** | Git, GitHub |
+Each project focuses on solving a business problem using data and presenting the findings in a clear, business-friendly way.
 
 ---
 
-## 📈 What You'll Find in My Portfolio
+## 📂 Projects
 
-These projects demonstrate my ability to work through the **end-to-end analytics process**:
+### 📉 01. Retail Customer Segmentation & RFM Analysis
 
-**Raw Data → Data Cleaning → Exploration → Analysis → Visualization → Business Insights**
+**Python + Power BI**
 
-#### 💡 Core Capabilities
+**Business Focus:** Customer behavior, customer value, segmentation & retention
 
-- 🧹 **Data Cleaning** — Preparing messy or raw datasets for analysis
-- 🗃️ **SQL Analysis** — Writing queries to extract and analyze meaningful information
-- 🐍 **Python Analytics** — Using Python for data manipulation and exploration
-- 🔍 **EDA** — Finding patterns, trends, relationships, and anomalies
-- 📊 **Dashboarding** — Building interactive reports with Power BI and Tableau
-- 📈 **KPI Analysis** — Measuring business performance using relevant metrics
-- 💼 **Business Thinking** — Connecting analytical findings to business questions
-- 💬 **Data Storytelling** — Presenting insights in a clear and understandable way
-- 🔧 **Version Control** — Managing projects using Git and GitHub
+Analyzed historical retail transaction data to understand **customer purchasing behavior, customer value, and retention opportunities**.
 
----
+Used Python and Pandas for data cleaning, exploratory data analysis, RFM analysis, and customer segmentation. Built an interactive Power BI dashboard to analyze customer segments, revenue contribution, high-value customers, and at-risk customers.
 
-## 🎯 My Analytics Approach
+**Key Highlights:**
+- Analyzed **4,338 customers**
+- Analyzed **18,532 orders**
+- Generated **8.89M total revenue**
+- Performed **RFM analysis**
+- Segmented customers based on purchasing behavior
+- Identified Champions, Loyal Customers, Potential Loyalists, At-Risk Customers, and Lost Customers
+- Identified high-value and at-risk customers
+- Built an interactive **Power BI dashboard**
 
-For each project, I follow a structured workflow:
+**Tools:** `Python` `Pandas` `RFM Analysis` `EDA` `Customer Segmentation` `Power BI`
 
-```text
-1. Understand the Business Problem
-             ↓
-2. Explore the Data
-             ↓
-3. Clean & Prepare the Data
-             ↓
-4. Analyze the Data
-             ↓
-5. Identify Trends & Patterns
-             ↓
-6. Build Visualizations / Dashboards
-             ↓
-7. Communicate Key Insights
-```
-
-The goal is not simply to create charts or write queries.
-
-The goal is to **answer meaningful business questions with data**.
+👉 [View Project](./Project-1-Customer-Segmentation-RFM-Analysis)
 
 ---
 
-## 🚀 Currently Building
+### 📊 02. Retail Sales Analysis
 
-I'm continuously expanding this portfolio with projects covering:
+**SQL + Power BI**
 
-- 🗃️ SQL Data Analysis
-- 📊 Business Intelligence & Dashboarding
-- 🐍 Python Data Analytics
-- 🔍 Exploratory Data Analysis
-- 👥 Customer Analytics
-- 💰 Sales & Business Analytics
-- 📈 Data Visualization
-- 🏢 Real-world Business Problems
+**Business Focus:** Sales performance, revenue trends & KPIs
 
-More projects will be added as I continue developing my analytics skills.
+Analyzed retail sales data to understand **sales performance, revenue trends, and key business KPIs**.
 
----
+Used SQL to query and analyze sales data and Power BI to create an interactive dashboard for presenting business insights.
 
-## 📬 Connect With Me
+**Key Highlights:**
+- Cleaned and prepared sales data
+- Analyzed revenue and sales trends
+- Developed business KPIs
+- Identified important sales patterns
+- Created an interactive Power BI dashboard
+- Translated analytical findings into business insights
 
-I'm interested in **Data Analyst, Business Analyst, and Analytics-related opportunities**.
+**Tools:** `SQL` `MySQL` `Power BI` `Data Cleaning` `KPI Analysis` `Data Visualization`
 
-- 💼 **LinkedIn:** [Click Here](https://www.linkedin.com/in/tusharrparihar/)
-- 📧 **Email:** tusharrparihar@gmail.com
+👉 [View Project](./Project-2-Retail-Sales-Analysis)
 
 ---
 
-### ⭐ Thanks for Visiting
+### 📈 03. [Project Name]
 
-If you find a project interesting, feel free to explore the project folder, analysis, SQL queries, notebooks, and dashboards.
+**[Tools Used]**
 
-**I'm building this portfolio to show what I can do with data — one project at a time.**
+**Business Focus:** [Business problem / analytical focus]
+
+[Add a short 2–3 sentence description of the project, explaining what you analyzed and what business problem you addressed.]
+
+**Key Highlights:**
+- [Key analysis]
+- [Key metric or finding]
+- [Key business insight]
+- [Dashboard / visualization]
+- [Recommendation or outcome]
+
+**Tools:** `[Tool 1]` `[Tool 2]` `[Tool 3]`
+
+👉 [View Project](./Project-3-Project-Name)
+
+---
+
+
+## 🛠️ Skills Demonstrated
+
+Across these projects, I am developing practical experience in:
+
+- **SQL**
+- **Python**
+- **Pandas**
+- **Excel**
+- **Power BI**
+- **Data Cleaning**
+- **Exploratory Data Analysis**
+- **KPI Development**
+- **Data Visualization**
+- **Customer Segmentation**
+- **RFM Analysis**
+- **Business Analysis**
+- **Business Insights & Recommendations**
