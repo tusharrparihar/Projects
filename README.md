@@ -1,6 +1,6 @@
-## 📊 Data Analytics Portfolio
+## 📊 Data Analytics Projects 
 
-Welcome to my **Data Analytics Portfolio**.
+Welcome to my **Data Analytics Projects**.
 
 This repository showcases my hands-on work in **SQL, Python, Power BI, Tableau, Excel, and databases**. Each project is built around a real-world analytics problem — from cleaning raw data and exploring patterns to creating dashboards and communicating business insights.
 
